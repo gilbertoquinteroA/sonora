@@ -1,0 +1,28 @@
+
+
+
+*{
+
+font-family: 'Montserrat', sans-serif;
+
+
+}
+.main{
+
+background-image:url(https://proyectopuente.com.mx/wp-content/themes/pp/timthumb.php?src=https://proyectopuente.com.mx/wp-content/uploads/2016/04/hermosillo-contaminado.jpg&w=900&h=506);
+height:500px;
+background-size:cover;
+}
+.bg-light {
+    background-color: #00305e!important;
+}
+.navbar-light .navbar-brand {
+    color: rgb(255, 255, 255);
+}
+
+.navbar-light .navbar-nav .active>.nav-link, .navbar-light .navbar-nav .nav-link.active, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .show>.nav-link {
+    color: rgb(255, 255, 255);
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(255, 255, 255);
+}
